@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin app</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="make_your_account">create your account</string>
+    <string name="login_to_account">Login to your account</string>
+</resources>
